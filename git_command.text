@@ -1,0 +1,8 @@
+first of all git init
+then git status
+then git add .
+then git status
+git commit -m "first commit"
+git remote add origin https://github.com/Sanashaheen/Git-Commands.git
+git push -u origin main
+
